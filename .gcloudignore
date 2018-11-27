@@ -1,0 +1,10 @@
+**/*.sh
+**/*.json
+.idea/
+.git/
+venv/
+sphinx/
+.gitignore
+.gcloudignore
+.DS_Store
+**/*.pyc

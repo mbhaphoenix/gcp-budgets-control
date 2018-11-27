@@ -1,0 +1,9 @@
+{
+  "budgetDisplayName": "project-id-to-cap",
+  "alertThresholdExceeded": 0.9,
+  "costAmount": 10.26,
+  "costIntervalStart": "2018-10-01T07:00:00Z",
+  "budgetAmount": 500,
+  "budgetAmountType": "SPECIFIED_AMOUNT",
+  "currencyCode": "EUR"
+}

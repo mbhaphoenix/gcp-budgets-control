@@ -1,0 +1,13 @@
+[
+
+{"budgetDisplayName":"project-id-to-cap","alertThresholdExceeded":0.9,"costAmount":10,"costIntervalStart":"2018-10-01T07:00:00Z","budgetAmount":500,"budgetAmountType":"SPECIFIED_AMOUNT","currencyCode":"EUR"}
+,
+{"budgetDisplayName":"project-id-to-cap","alertThresholdExceeded":0.9,"costAmount":20.29,"costIntervalStart":"2018-10-01T07:00:00Z","budgetAmount":500,"budgetAmountType":"SPECIFIED_AMOUNT","currencyCode":"EUR"}
+,
+{"budgetDisplayName":"project-id-to-cap","alertThresholdExceeded":0.9,"costAmount":30,"costIntervalStart":"2018-11-01T07:00:00Z","budgetAmount":500,"budgetAmountType":"SPECIFIED_AMOUNT","currencyCode":"EUR"}
+,
+{"budgetDisplayName":"project-id-to-cap","alertThresholdExceeded":0.9,"costAmount":40.71,"costIntervalStart":"2018-11-01T07:00:00Z","budgetAmount":500,"budgetAmountType":"SPECIFIED_AMOUNT","currencyCode":"EUR"}
+,
+{"budgetDisplayName":"project-id-to-cap","alertThresholdExceeded":0.9,"costAmount":441.23,"costIntervalStart":"2018-12-01T07:00:00Z","budgetAmount":500,"budgetAmountType":"SPECIFIED_AMOUNT","currencyCode":"EUR"}
+
+]
